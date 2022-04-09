@@ -20,5 +20,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello github!
+hello github! master test
 hello gxnu!
